@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @bcmcgeary
 - 👀 I’m interested in front end web development.
-- 🌱 I’m currently learning git, I've previously used cvs and svn.
-- 💞️ I’m looking to collaborate on $$$ paid projects.
 - 📫 How to reach me bcmcgeary@gmail.com
 
 <!---
